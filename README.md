@@ -50,12 +50,12 @@ Cada exercício é implementado em um arquivo separado para C++ e Java, seguindo
    ```bash
    cd basico
 
-2. **Escolha um Exercício:**
+3. **Escolha um Exercício:**
 
    ```bash
    cd ex-01
 
-2. **Escolha o Diretório da Linguagem de Programação que Preferir:**
+4. **Escolha o Diretório da Linguagem de Programação que Preferir:**
 
 - Para C++:
 
@@ -67,6 +67,6 @@ Cada exercício é implementado em um arquivo separado para C++ e Java, seguindo
   ```bash
    cd ex-01_java/ex-01
 
-3. **Execusão do Programa:**
+5. **Execusão do Programa:**
 
    Para executar os programas, consulte o arquivo README.txt localizado em cada diretório do exercício selecionado para instruções específicas de execução.
