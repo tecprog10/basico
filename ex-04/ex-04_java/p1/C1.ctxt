@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=C1
+comment1.params=aa
+comment1.target=C1(int)
+comment2.params=aa
+comment2.target=void\ seta1(int)
+comment3.params=
+comment3.target=int\ geta1()
+numComments=4
