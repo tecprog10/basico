@@ -1,0 +1,9 @@
+Instruções para executar:
+
+Foram implementas no Visual Studio 2022
+
+Versão do Python 3
+
+Conceitos Utilizados:
+
+Programação orientado a objetos (POO), condicionais, classes, funções getters e setters e conversão de tipos.
