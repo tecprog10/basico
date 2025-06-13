@@ -1,6 +1,6 @@
 #Feito pelo Monitor Voluntario Washington Ying Ye Wu  - 13/06/2025
 #Versao do Python Utilizada Python 3
-#MatÈria TÈcnicas de ProgramaÁ„o - Prof. Jean Marcelo Simao
+#Mat√©ria T√©cnicas de Programa√ß√£o - Prof. Jean Marcelo Simao
 
 #exercicio 8
 class Carro:
@@ -19,7 +19,7 @@ class Carro:
             self.nvlcombustivel -= combustivel_necessario
             print(f"andou {distancia} km.")
         else:
-            # Anda o m·ximo possÌvel com o combustÌvel restante
+            # Anda o m√°ximo poss√≠vel com o combust√≠vel restante
             distancia_possivel = self.nvlcombustivel * self.consumo
             self.nvlcombustivel = 0
             print(f"combustivel insuficiente, andou apenas {distancia_possivel:.2f} km.")
