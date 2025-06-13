@@ -1,6 +1,6 @@
 #Feito pelo Monitor Voluntario Washington Ying Ye Wu  - 13/06/2025
 #Versao do Python Utilizada Python 3
-#Matéria Técnicas de Programação - Prof. Jean Marcelo Simao
+#MatÃ©ria TÃ©cnicas de ProgramaÃ§Ã£o - Prof. Jean Marcelo Simao
 
 #exercicio 9
 class Carro:
