@@ -1,0 +1,3 @@
+Como executar? 
+
+Caso esteja usando Visual Studio 2022 Microsoft, não esqueça de adicionar ele a um projeto Python para conseguir compilar e executar
