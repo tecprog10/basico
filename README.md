@@ -35,7 +35,7 @@ Este repositório contém os seguintes arquivos:
 - **Exercício 11:** Criar a classe `Relógio` em Java e/ou C++.
 - **Exercício 12:** Criar a classe `Vector` em C++ (operações com `operator`).
 - **Exercício 13:** Substituição dos operadores do Exercício 12 por métodos.
-
+- **Exercício 14:** Criação de um sistema planetário em SFML
 Cada exercício é implementado em um arquivo separado para C++ e Java, seguindo a estrutura e os requisitos estabelecidos.
 
 ## Como Utilizar
